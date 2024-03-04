@@ -5,6 +5,7 @@
 
   header , main{
     flex-direction: column;
+    margin-left: -30px;
   }
 
   #bolo{
