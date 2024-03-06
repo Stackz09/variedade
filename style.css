@@ -34,7 +34,7 @@ main {
   display: flex;
   flex-direction: row;
   margin-top: 50px;
-  margin-left: 50px;
+  margin-left: 70px;
 }
 
 p {
@@ -80,7 +80,7 @@ input:hover {
 .btn-abrir i {
   display: flex;
   margin-top: -150px;
-  margin-left: 390px;
+  margin-left: 350px;
   font-size: 40px;
   color: #e2067b;
 }
