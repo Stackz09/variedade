@@ -1,11 +1,11 @@
 @media screen and (max-width:767px){
-  li{
+  .menu{
     display: none;
   }
 
   header , main{
     flex-direction: column;
-    margin-left: -90px;
+    margin-left: -10px;
   }
 
   #bolo{
@@ -19,3 +19,13 @@
     margin-right: 20px;
   }
 }
+
+  @media screen and (min-width:767px){
+    .menu-mobile {
+      display: none;
+    }
+
+    .btn-abrir {
+      display: none;
+    }
+  }
